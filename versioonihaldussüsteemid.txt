@@ -1,1 +1,5 @@
 Как сделать так, чтобы при работе с GitHub не заменять файлы в оригинальной ветке (main)?
+git status # to check which branch
+git branch %urname%
+git checkout %urname%
+git status
