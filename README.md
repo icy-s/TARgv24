@@ -6,6 +6,6 @@
 * Ответить на вопрос в файле **versioonihaldussüsteemid**
 * Ответить на вопрос в файле **arvutivõrgud**
   
-* git add .
+  
 * git commit -a -m "ül#" (на каждое задание отдельно)
 * git push
