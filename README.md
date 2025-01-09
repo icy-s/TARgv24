@@ -5,7 +5,5 @@
 * Ответить на вопрос в файле **projektijuhtimine**
 * Ответить на вопрос в файле **versioonihaldussüsteemid**
 * Ответить на вопрос в файле **arvutivõrgud**
-  
-* 
 * git commit -a -m "ül#" (на каждое задание отдельно)
 * git push
