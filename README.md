@@ -18,3 +18,5 @@ Arvestuse saamiseks on vaja teha:
   <a href="https://evgenytailov24.thkit.ee/wp/">WP Link</a>
 
   This site was built using [GitHub Pages](https://pages.github.com/).
+
+  ![image](https://github.com/user-attachments/assets/2315248c-4c80-4fc5-bf3b-3c3a9ba3dcf1)
